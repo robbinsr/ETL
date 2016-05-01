@@ -2,7 +2,7 @@
 
 Note 1: On any of the links below, be sure to scroll down, if necessary.
 
-Note 2: This example is incomplete and not finished. A series of steps past step six below is necessary.
+Note 2: This example is incomplete. A series of steps past step six below is necessary.
 
 1. [ETL_1](https://github.com/robbinsr/ETL_1)
 1. [ETL_2](https://github.com/robbinsr/ETL_2)
