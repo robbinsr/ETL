@@ -1,6 +1,6 @@
 # ETL Example
 
-Note 1: On any of the links below, be sure to scroll down, if necessary.
+Note 1: After clicking any of the links below, be sure to scroll down, if there is a scroll bar on the right.
 
 Note 2: This example is incomplete. A series of steps past step six below is necessary.
 
